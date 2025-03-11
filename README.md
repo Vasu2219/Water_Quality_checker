@@ -1,7 +1,7 @@
 # Water_Quality_checker
 1 Introduction 
-Access to clean water is fundamental to human health and wellbeing. However, water quality can be 
-compromised by various pollutants from industrial discharge, agricultural runoff, and improper waste 
+<br>Access to clean water is fundamental to human health and wellbeing. However, water quality can be </br>
+<br>compromised by various pollutants from industrial discharge, agricultural runoff, and improper waste </br>
 disposal. Traditional water quality monitoring methods often involve manual sampling and laboratory 
 analysis, which are time-consuming, costly, and provide only periodic insights. With technological ad- 
 vancements, there is growing interest in developing automated, real-time monitoring systems that can 
